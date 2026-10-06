@@ -1,1 +1,3 @@
-www-faker.maildrop.pl
+Type:  CNAME
+Name:  www-faker
+Value: www-faker.github.io
